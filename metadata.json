@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TV OS",
+  "description": "A simulated Apple TV experience featuring AI-powered content recommendations using Gemini 2.5.",
+  "requestFramePermissions": []
+}
